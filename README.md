@@ -4,7 +4,7 @@ A new flutter project
 
 ## Getting started
 
-This is a sticky notes app where you can enter your to do work as many as you want.
+This is a sticky notes app where you can enter your important notes, your to do work etc.
 
 
 
